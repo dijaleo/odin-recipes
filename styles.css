@@ -1,0 +1,18 @@
+.head-title{
+    font-family: Tahoma, sans-serif;
+}
+
+*{
+    background-color: #e9ae82;
+}
+
+li,
+a.element{
+    background-color: #e9e182;
+    font-family: cursive, sans-serif;
+    width: 220px;
+    font-size: 24px;
+}
+h2{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
